@@ -2,7 +2,7 @@
 const countdownElement = document.getElementById("countdown");
 
 // Set your wedding date here (YYYY-MM-DD format)
-const targetDate = new Date("2026-11-01T00:00:00").getTime();
+const targetDate = new Date("2026-11-20T18:00:00").getTime();
 
 function updateCountdown() {
   const now = new Date().getTime();
